@@ -2,6 +2,7 @@ import time
 
 print('divide two numbers')
 
+# get the user to enter in some integers
 x=int(input('enter first number: '))
 y=int(input('enter number to divide by: '))
 
